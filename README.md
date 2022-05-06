@@ -1,5 +1,5 @@
 # opencore-hackintosh-HP-al132tx-Kaby-Lake
-
+This a ready to go OpenCore configaration for HP Pavilion 14 Al132TX 
 Working 100% - Tested with latest macOS Monterey 12.3.1
 [LAN driver currently not working but WLAN works flawlesly]
 
