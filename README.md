@@ -1,5 +1,6 @@
 # opencore-hackintosh-HP-al132tx-Kaby-Lake
-This a ready to go OpenCore configuration for HP Pavilion 14 Al132TX 
+This is a ready to go OpenCore configuration for HP Pavilion 14 Al132TX 
+Use opencore to download your preffered recovery image and you're ready to go.
 
 Working 100% - Tested with latest macOS Monterey 12.3.1
 
