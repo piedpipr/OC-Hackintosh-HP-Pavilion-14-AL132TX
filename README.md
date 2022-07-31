@@ -1,12 +1,21 @@
-# opencore-hackintosh-HP-al132tx-Kaby-Lake
-This is a ready to go OpenCore configuration for HP Pavilion 14 Al132TX 
-Use opencore to download your preffered recovery image and you're ready to go.
+# OpenCore Hackintosh HP AL132TX Kaby Lake
 
-Working 100% - Tested with latest macOS Monterey 12.3.1
+This is a ready to go OpenCore configuration for HP Pavilion 14 AL132TX. 
+Use ```OpenCore-8.0.3-RELEASE/Utilities/macrecovery/macrecovery.py```
+to download your preffered recovery image and you're ready to go. Create a folder named ```com.apple.recovery.boot``` and put the recovery inside the folder then put both the ```EFI``` and ```com.apple.recovery.boot``` in your USB or Boot Installer Drive and boot.
 
-[LAN driver currently not working but WLAN works flawlesly]
+For details refer to https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites
+------------------------------------------
+
+#### Working 100% - Tested with latest macOS Monterey 12.5[Updated]
+
+* LAN driver currently not working but WLAN works flawlesly
 
 ![Screen Shot 2022-05-06 at 6 04 30 PM](https://user-images.githubusercontent.com/43669876/167128579-f0fd5b7a-6d00-416f-93dc-66678f7a1f79.png)
+### To set your Serial No and UIID
+Refer to this guide https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios
+and update the following configurations inside PlatformInfo >> Generic
+![Screen Shot 2022-07-31 at 4 22 21 PM](https://user-images.githubusercontent.com/43669876/182022133-e3d15077-9305-45bb-9789-6ce2ac3e6f2e.png)
 
 
 ## Disclaimer:
