@@ -1,7 +1,7 @@
 # OpenCore Hackintosh HP AL132TX Kaby Lake
 
 This is a ready to go OpenCore configuration for HP Pavilion 14 AL132TX. 
-Use ```OpenCore-8.0.3-RELEASE/Utilities/macrecovery/macrecovery.py```
+Use ```OpenCore-0.8.3-RELEASE/Utilities/macrecovery/macrecovery.py```
 to download your preffered recovery image and you're ready to go. Create a folder named ```com.apple.recovery.boot``` and put the recovery inside the folder then put both the ```EFI``` and ```com.apple.recovery.boot``` in your USB or Boot Installer Drive and boot.
 
 For details refer to https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites
