@@ -18,6 +18,8 @@ and update the following configurations inside PlatformInfo >> Generic
 ![Screen Shot 2022-07-31 at 4 22 21 PM](https://user-images.githubusercontent.com/43669876/182022133-e3d15077-9305-45bb-9789-6ce2ac3e6f2e.png)
 
 
+For battery patch use this repo https://github.com/h9419/HP_Pavilion_14_bf100_Hackintosh [I will update the patched EFI Soon]
+
 ## Disclaimer:
 None of these drivers or softwares, whatsoever are owned by me or any of my associations.
 These are the cherry picked collections of many opensource projects with their own sharable licences available under their authority and contains no proprietary codes to my knowledge.
