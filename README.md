@@ -6,6 +6,7 @@ to download your preffered recovery image and you're ready to go. Create a folde
 
 For details refer to https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites
 ------------------------------------------
+![Screenshot 2023-02-17 at 3 42 59 AM](https://user-images.githubusercontent.com/43669876/219758800-65c88fad-425a-4b25-b7c0-937b18a767ac.png)
 
 #### Working 100% - Tested with latest macOS Monterey 12.5[Updated]
 
